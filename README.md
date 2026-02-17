@@ -1,6 +1,7 @@
 # ai-chat-exporter
 一个简单、本地化的 AI 聊天记录转换工具，支持多格式导出
-<img width="1271" height="669" alt="image" src="https://github.com/user-attachments/assets/316df670-3c42-4a05-a269-6a2cff1e2a95" />
+<img width="1260" height="668" alt="image" src="https://github.com/user-attachments/assets/afd6a34a-12e5-41e8-81b8-cc51c8a6bfb9" />
+
 
 ## 初衷 
 在日常学习和研究中，我发现将不同 AI 平台（Claude, ChatGPT, Grok, DeepSeek）的对话导出为排版美观的文档非常繁琐。为了提高效率，我开发了这个轻量化的本地工具。
